@@ -4,14 +4,14 @@ Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta co
 
 1. Cristopher  / Ecuador
 2. Enzo / Argentina
-3. Marcia / Venezuela
+3. Marcia / Venezuela / https://github.com/Gmarce
 4. Nayarit / Venezuela
 5. Xiomara / Colombia
 6. Pablo / Argentina
-7. Wladimir / Chile
+7. Wladimir / Chile / https://github.com/albornozwladimir
 8. Leandro / Argentina
 9. Sn0wFreeze / USA 
-10. William / Venezuela 
+10. William / Venezuela /https://github.com/izquierdow 
  
 
 ## Sobre nosotros
