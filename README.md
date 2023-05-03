@@ -11,7 +11,7 @@ Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta co
 7. Wladimir / Chile / https://github.com/albornozwladimir
 8. Leandro / Argentina
 9. Sn0wFreeze / USA 
-10. William / Venezuela /https://github.com/izquierdow 
+10. WilliamI / Venezuela /https://github.com/izquierdow 
  
 
 ## Sobre nosotros
