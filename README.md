@@ -1,16 +1,27 @@
-### Hi there 👋
+# Bienvenido al perfil del Grupo de Trabajo Devops295 👋
 
-<!--
-**Devops295/Devops295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta con los siguientes integrantes:
 
-Here are some ideas to get you started:
+1. Cristopher  / Ecuador
+2. Enzo / Argentina
+3. Marcia / Venezuela
+4. Nayarit / Venezuela
+5. Xiomara / Colombia
+6. Pablo / Argentina
+7. Wladimir / Chile
+8. Leandro / Argentina
+9. Sn0wFreeze / USA 
+10. William / Venezuela 
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre nosotros
+
+- 💼 Trabajamos en la industria de desarrollo de software y nos especializamos en prácticas de DevOps.
+- 🌱 Estamos constantemente aprendiendo y mejorando nuestras habilidades en tecnologías y herramientas relacionadas con DevOps.
+- 🤝 Estamos disponibles para colaborar en proyectos y ayudar a otros desarrolladores.
+
+## Tecnologías y herramientas
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
