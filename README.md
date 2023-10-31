@@ -2,16 +2,8 @@
 
 Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta con los siguientes integrantes:
 
-1. Cristopher  / Ecuador / https://github.com/cristofima
-2. Enzo / Argentina / https://github.com/Enzo2602
-3. Marcia / Venezuela / https://github.com/Gmarce
-4. Nayarit / Venezuela
-5. Xiomara / Colombia
-6. Pablo / Argentina
-7. Wladimir / Chile / https://github.com/albornozwladimir
-8. Leandro / Argentina
-9. Sn0wFreeze / USA 
-10. William / Venezuela /https://github.com/izquierdow 
+1. Leinerd / Venezuela / https://github.com/
+2. William / Venezuela /https://github.com/izquierdow 
  
 
 ## Sobre nosotros
