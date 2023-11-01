@@ -3,7 +3,8 @@
 Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta con los siguientes integrantes:
 
 1. Leinerd / Venezuela / https://github.com/
-2. William / Venezuela /https://github.com/izquierdow 
+2. William / Venezuela /https://github.com/izquierdow
+3. Ezequiel / Argentina / https://github.com/ezequiel43878
  
 
 ## Sobre nosotros
