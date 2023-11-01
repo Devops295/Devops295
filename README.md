@@ -2,11 +2,13 @@
 
 Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta con los siguientes integrantes:
 
-1. Leinerd / Venezuela / https://github.com/
-2. William / Venezuela /https://github.com/izquierdow
-3. Ezequiel / Argentina / https://github.com/ezequiel43878
-4. Leandro / Argentina / https://github.com/
- 
+1. William Izquierdo / Venezuela / https://github.com/
+2. Leinerd Colmenarez / Venezuela /https://github.com/izquierdow
+3. Ezequiel Ramos / Argentina / https://github.com/ezequiel43878
+4. Leandro Insfrán / Argentina / https://github.com/
+5. Marllury Romero	/ Alemania / https://github.com/Wolfferdev 
+6. Enrique Parada	/ Alemania / https://github.com/
+
 
 ## Sobre nosotros
 
