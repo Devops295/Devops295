@@ -8,6 +8,7 @@ Somos un equipo de casi expertos en DevOps, multidisciplinario el cual cuenta co
 4. Leandro Insfrán / Argentina / https://github.com/
 5. Marllury Romero	/ Alemania / https://github.com/Wolfferdev 
 6. Enrique Parada	/ Alemania / https://github.com/
+7. Martin Torrez / Argentina / https://github.com/
 
 
 ## Sobre nosotros
